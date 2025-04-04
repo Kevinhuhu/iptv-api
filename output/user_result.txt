@@ -1470,6 +1470,7 @@ CETV4,rtsp://221.7.61.147/PLTV/88888910/224/3221225594/1000010000000006000000000
 厦门卫视,http://60.209.125.254:352/tsfile/live/0119_1.m3u8?ace
 福建厦门三套,http://cstvpull.live.wscdns.com/live/xiamen3.flv
 新厦门三套,http://cstv.live.wscdns.com/live/xiamen3/playlist.m3u8
+厦门2,http://xiamencncc.v.wscdns.com/xiamen/xiamen2_1/index.m3u8
 宁化电视一套,http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8?fujian
 晋江电视台,http://stream.jinjiang.tv/1/sd/live.m3u8?zfud
 漳浦综合,http://220.161.87.62:8090/hls/0/index.m3u8?zfud
